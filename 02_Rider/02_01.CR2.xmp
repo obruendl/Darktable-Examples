@@ -5,6 +5,7 @@
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:darktable="http://darktable.sf.net/"
    exif:DateTimeOriginal="2019:09:11 18:31:37"
    xmp:Rating="1"
@@ -14,6 +15,16 @@
    darktable:auto_presets_applied="1"
    darktable:history_end="30"
    darktable:iop_order_version="5">
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">RiderWarm</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Original</rdf:li>
+    </rdf:Alt>
+   </dc:description>
    <darktable:masks_history>
     <rdf:Seq/>
    </darktable:masks_history>
