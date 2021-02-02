@@ -18,7 +18,7 @@ I am not a pro. I do this for my hobby. Chances are good that you know something
 
 ## Sample Pictures
 
-I decided to pick a hand full of sample pictures from different genres. Most of them come from [signatureedits.com](www.signatureedits.com), because I do not cover all genres well. A few of them (especially the wildlife ones) are from myself. Note that the goal here is not to present to coolest pictures, but to pick very typical ones and a few ones with certain errors like high noise level or blur.
+I decided to pick a hand full of sample pictures from different genres. Most of them come from [signatureedits.com](https://www.signatureedits.com), because I do not cover all genres well. A few of them (especially the wildlife ones) are from myself. Note that the goal here is not to present to coolest pictures, but to pick very typical ones and a few ones with certain errors like high noise level or blur.
 
 If you feel like the samples do not cover some important aspect, let me know and provide a good sample image along.
 
