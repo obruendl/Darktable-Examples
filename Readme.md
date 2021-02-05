@@ -28,6 +28,8 @@ This section shortly
 
 * Styles 
   * Darktable styles go here. 
+* Modules
+  * Description and examples about the most commonly used modules go here
 * XX_\<SomePicture\>
   * Each example picture along with its different sidecar files goes into a separate folder
   * Description of different editing style is stored in this folder too
@@ -42,6 +44,7 @@ This section shortly
 I strongly suggest to read the following sections before you jump to the actual image descriptions. These sections contain the baseline of what the descriptions of the images are based on.
 
 1. [Default Style](./Styles/doc/DefaultStyle.md) - I suggest you start here because many of the edits are built based on this style.
+2. [Modules Overview](./Modules/Overview.md) - Here you can find detailed information about many modules
 
 ### Sample Images
 
